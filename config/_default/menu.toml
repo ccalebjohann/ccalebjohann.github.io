@@ -16,6 +16,14 @@ url = "https://github.com/ccalebjohann"
 icon = "brand-github"
 
 [[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://instagram.com/ccalebjohann"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
 identifier = "twitter"
 name = "Twitter"
 url = "https://twitter.com"
