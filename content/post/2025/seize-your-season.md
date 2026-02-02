@@ -58,7 +58,8 @@ Because I remembered the “*why???*” I used to ask.
 
 ##  "*Why???*"
 
-> “*Why would You let me pass but not give me the means? Didn’t I ask You to not let me pass at all if I wasn’t meant to be there?*”
+> “Why would You let me pass but not give me the means?
+> Didn’t I ask You to not let me pass at all if I wasn’t meant to be there?
 
 The emotions I bottled all those months kept spilling out. How dare I.. The speech came to an end and everyone had time for prayer and singing. I couldn’t stand up, my knees were planted to the ground. To make things worse, along with my tears came a drizzle, watering the ground. In a sea of 10,000 people, I was drowning in my own sea of tears.
 
