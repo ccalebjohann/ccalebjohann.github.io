@@ -1,5 +1,5 @@
 ---
-title: "Seize Your Season"
+title: "Seize Your Season (季節をつかむ)"
 description: 
 date: 2025-11-02T05:44:38Z
 image: 
@@ -12,92 +12,108 @@ categories:
     - christian life
 ---
 
-Have you ever been in a season when nothing seems to go according to plan, when every effort suddenly feels uncertain? When the dream you’ve worked so hard for is right in front of you, yet somehow still out of reach?
+計画どおりに何ひとつ進まないように感じる時期を、あなたは経験したことがあるだろうか。どれだけ努力しても、すべてが突然不確かに思えてしまう時。必死に追いかけてきた夢が目の前にあるのに、なぜか手が届かない――そんな時を。
 
-## The next race?
+## 次のレースは？
 
-As I neared the end of my undergraduate studies, I began to feel the weight of deciding “the next move.” If you know me personally or have read my previous nUance article, you’d probably know that I’ve been working toward becoming a motorsport engineer. That dream shaped my years here in Nagoya—pulling myself through meetings, language barriers, and endless late nights. I prayed, put in the effort, and shot my shot at my dream university in the UK. All that was left was to wait for the start of my next race, wherever that may be.
+学部課程の終わりが近づくにつれ、「次にどう動くか」を決めなければならない重みを強く感じるようになった。私を個人的に知っている人や、以前の *nUance* の記事を読んだことがある人なら知っていると思うが、私はモータースポーツエンジニアになることを目標にしてきた。その夢は、名古屋で過ごした年月そのものを形づくっていた。会議、言語の壁、終わりのない深夜作業――それらを乗り越えながら、私は祈り、努力し、イギリスの憧れの大学に挑戦した。あとは、次のレースのスタートを待つだけだった。場所がどこであれ。
 
-I just wanted a clearer vision on how I will be moving on after I graduate, so when I finally got my admission results, it felt like a huge burden was taken off my back. I couldn’t believe it—*I passed*! I was overjoyed, thinking all those years of effort had finally paid off. My mind was eager to play through the memories of tomorrow.
+卒業後の道筋を、ただもう少しはっきりさせたかっただけだった。だから合格通知を受け取ったとき、肩の荷が一気に下りたように感じた。信じられなかった。*合格した* のだ。何年もの努力が、ついに報われたと思った。頭の中では、明日へと続く記憶が次々と再生されていった。
 
-Or so I wished... *I couldn’t fund myself*.
+……そう、願っていた。
 
-I didn’t get the scholarship. I didn’t have even 5% of the money to support just 1 year of studies. I wasn’t even eligible for a loan because of my nationality. I tried to find sponsors, hoping anyone would be willing to support a young Filipino guy onto the technical side of motorsport. It was final: I couldn’t go. The light didn’t turn green. I found myself bawling my eyes out as I stared at the screen right in front of me.
+*資金がなかった*。
 
-As I pressed that button. I grieved a future that might never be. It was painful as burying your favorite cat—it stung, but you had to see it to the end. All I had in mind was “*Why???*”
+奨学金は取れなかった。1年分の学費の、たった5％すら用意できなかった。国籍の関係で、ローンを組むことすらできなかった。スポンサーを探し、フィリピン出身の若者がモータースポーツの技術分野に進むことを、誰かが支えてくれないかと願った。でも結論は同じだった。行けない。信号は青にならなかった。目の前の画面を見つめながら、私は声をあげて泣いていた。
 
-I told myself I had a plan: to go home. I was late for job hunting, so at least for the near future, I buried my dreams of working in R&D in the automotive industry. I jokingly told my friends, “I’m going home” thinking that was the end of the road.
+そのボタンを押した瞬間、私は「存在しなかったかもしれない未来」を悼んだ。それは、大切にしていた猫を埋めるほどにつらい痛みだった。痛いけれど、最後まで見届けなければならない。ただ頭の中には、ひたすら「*なぜ？？？*」という問いだけがあった。
 
-## One last ride: why not?
+私は自分に言い聞かせた。「計画はある。帰国するんだ」。就職活動には出遅れていたし、少なくとも当面は、自動車業界のR&Dで働くという夢を胸の奥に埋めるしかなかった。冗談めかして友人たちに「帰るよ」と言い、それが終着点なのだと思い込もうとしていた。
 
-Back in March, I got invited to a Christian summer conference in Korea. The theme was “*Seize your Season*”, something I thought was so timely. 
+## 最後のライド：行ってみる？
 
-There were many reasons for me not to go: I had to finish my research, and I’d likely have to pay out of pocket. Still, deep down, I wanted to go—to spend time with some friends—probably for one last ride before I moved on to the next. I wanted to *seize my season*; wait, I didn’t even know why that was the theme.
+3月、私は韓国で行われるクリスチャンのサマー・カンファレンスに招かれた。テーマは「*Seize Your Season*（自分の季節をつかめ）」――あまりにも今の自分に重なっていた。
 
-All I knew was I did want a break from the monotony of sitting in front of my PC, endlessly coding and writing papers—to step back, breathe, reflect, and ask my God, “*Why? What now?*”
+行かない理由はいくらでもあった。研究を終わらせなければならないし、費用も自己負担になる可能性が高かった。それでも心の奥では、行きたいと思っていた。友人たちと時間を過ごしたかったのだ。次のステージに進む前の、最後のライドのようなものとして。自分の季節を「つかみたい」と思った――もっとも、なぜそれがテーマなのかも分かっていなかったけれど。
 
-It took me a month to finally sign up. It’s hard to start something new when you don’t know why you’re starting it (*even writing this article took me two months*). Without a clear reason, it’s easy to freeze.
+ただ一つ分かっていたのは、PCの前に座り、延々とコードを書き論文を書く単調な日々から、少し離れたかったということ。立ち止まり、息をして、振り返り、神に問いかけたかった。「*なぜ？ これからどうすればいい？*」
 
-Someone close to me suggested fundraising. But honestly, I couldn’t. It felt low to ask for other people’s hard-earned money—or at least that’s what I told myself. In truth, I was just too prideful to ask.
+申し込むまでに、結局1か月かかった。なぜ始めるのか分からないまま何かを始めるのは、本当に難しい（*この文章を書くのにも2か月かかった*）。理由が見えないと、人は簡単に立ち止まってしまう。
 
-Eventually, awkwardly but with permission from elders, I fundraised and asked a few friends from my church. I assumed I wouldn’t raise enough and would have to cover the rest. To my surprise, people came up to me—without me even asking—and offered support. In less than two weeks, I had exactly what I needed to join the conference.
+身近な人が、募金をしてみたらどうかと提案してくれた。でも正直、できなかった。他人が苦労して稼いだお金をお願いするのは、気が引けた――少なくとも、そう自分に言い聞かせていた。本当は、ただプライドが高すぎただけだった。
 
-## Hello, Korea
+最終的には、長老たちの許可を得て、不器用ながらも募金をし、教会の友人たちに声をかけた。どうせ足りないだろうから、残りは自分で負担することになると思っていた。ところが驚いたことに、私が頼む前から声をかけてくれる人たちがいた。2週間も経たないうちに、必要な金額がちょうど集まった。
 
-Six years ago, in 2019, on a 6-hour layover, I stood in the long, wide halls of Incheon Airport, gazing toward the expanse of the runways. I thought to myself, “*sana makabalik at makapasyal.*” (“I hope I can go back and visit”; I had to include it because Tagalog just sounds better).
+## アンニョン、韓国
 
-This time, walking through the streets, everything felt strangely familiar—the sights, the sounds, even the rhythm of the people. I’ve seen them somewhere before: the tall apartment buildings, the food bursting with color, the streets draped in Hangul, the grandmas stretching and walking early in the morning to their hearts’ content. I really had seen them, not in a past life, but in K-dramas.
+6年前の2019年、6時間の乗り継ぎ時間に、私は仁川空港の長く広い通路に立ち、滑走路の向こうを眺めていた。そのとき、こう思った。
+「*sana makabalik at makapasyal.*」
+（「また来て、ちゃんと旅ができたらいいな」――タガログ語のほうが響きがいいから、あえて残しておく。）
 
-<!-- This section is temporary; replace with photos later ![Image 1](1.jpg) ![Image 2](2.jpg) -->
+今回は、街を歩きながら、すべてが不思議と懐かしく感じられた。景色、音、人々のリズム。どこかで見たことがある。高くそびえる集合住宅、色鮮やかな食べ物、ハングルに彩られた街並み、朝早くから思う存分体を動かすおばあちゃんたち。前世ではなく、Kドラマの中で。
 
-Yet while familiar, everything still felt foreign. It wasn’t the place, it was the experience itself. It was the complete opposite of chasing my dream, where every step had to be fought for; this one was simply given; I had done nothing to earn it. 
+<!-- このセクションは一時的：後で写真に差し替え -->
 
-The day before the conference, I felt an urge to break from my usual Bible reading plan and revisit a passage I hadn’t quite understood. Though I was already several chapters ahead, I turned back to Genesis 15. It was about a man who couldn’t believe he was being promised something so great: I saw myself in a similar position to that man.
+それでも、どこかよそよそしさは残っていた。場所ではなく、体験そのものが。夢を追いかける日々とは正反対だった。あのときは、一歩一歩を必死に勝ち取らなければならなかった。けれど今回は、ただ与えられたものだった。私は何も成し遂げていないのに。
 
-The next day, in the first session, the speaker claimed, “*everyone who is here was brought here by God*”. I didn’t know how to process that. I did believe that everything happening happens under the permission of God, but I was slightly guilty since I was there because part of me simply wanted to escape my daily rhythm. That was, until he revealed that his message was going to be about the very same chapter I read the day before. “*I was meant to be here to learn something,*” I thought.
+カンファレンス前日、いつもの聖書通読プランを離れ、以前よく分からなかった箇所を読み返したくなった。すでに何章も先に進んでいたのに、創世記15章に戻った。そこには、あまりにも大きな約束を前に、信じきれない一人の男が描かれていた。私は、その姿に自分を重ねていた。
 
-The speaker continued to share about that chapter: the topic of God’s Promise and how it relates to current society and how people think: how our hearts find things to chase and at times we are left in pain. That was an arrow pointed at me. I realized what I had to learn, and I couldn’t stop my tears from streaming down my eyes.
+翌日、最初のセッションで講師はこう言った。
+「*ここにいる全員は、神によってここに導かれました*」。
+どう受け止めればいいか分からなかった。すべては神の許しのもとに起こると信じてはいたが、正直なところ、私は日常から逃げたかっただけでもあった。その後、彼が語るメッセージの箇所が、前日に私が読んだのと同じ章だと明かされたとき、思った。
+「*私は、何かを学ぶためにここに来たんだ*」。
 
-Because I remembered the “*why???*” I used to ask.
+講師はその章を通して、神の約束と現代社会との関係、人の心が何を追い求め、そして痛みを抱えるかについて語った。その言葉は、まっすぐ私に突き刺さった。何を学ぶべきかが分かり、涙が止まらなかった。
 
-##  "*Why???*"
+なぜなら、あの「*なぜ？？？*」を思い出したからだ。
 
-> “Why would You let me pass but not give me the means?
-> Didn’t I ask You to not let me pass at all if I wasn’t meant to be there?
+## 「*なぜ？？？*」
 
-The emotions I bottled all those months kept spilling out. How dare I.. The speech came to an end and everyone had time for prayer and singing. I couldn’t stand up, my knees were planted to the ground. To make things worse, along with my tears came a drizzle, watering the ground. In a sea of 10,000 people, I was drowning in my own sea of tears.
+> なぜ合格させておきながら、手段を与えなかったのですか？
+> 行くべきでないなら、最初から合格させないでほしいと祈ったはずなのに。
 
-<!-- This section is temporary; replace with photos later ![Image 1](1.jpg) ![Image 2](2.jpg) -->
+何か月も押し込めていた感情が、溢れ出した。なんて傲慢だったのだろう。メッセージが終わり、祈りと賛美の時間になっても、私は立ち上がれなかった。膝を地面につけたまま。さらに悪いことに、涙と一緒に小雨が降り、地面を濡らしていた。1万人の人混みの中で、私は自分の涙の海に溺れていた。
 
-In the depths of that sea, I craved for hope. I wanted someone to help me out of a pit I dug myself in.
+<!-- このセクションは一時的：後で写真に差し替え -->
 
-There’s an English saying: “Your god is too small.” At least, when it came to my career, my god was indeed small. Coming from a middle-income family, money was never something I had. So my “god” became *achievement*. I always had a reason to start things—I worked, worked, and worked, convinced there was meaning behind everything I did. And... it got me nowhere.
+その深い海の底で、私は希望を求めていた。自分で掘った穴から、誰かに引き上げてほしかった。
 
-With my confidence crushed, even that god has shrunk. It’s become far too small to carry me now—so small that I couldn’t even imagine continuing my studies here in Japan.
+英語に「Your god is too small（あなたの神は小さすぎる）」という表現がある。少なくとも、キャリアに関して言えば、私の神は確かに小さかった。中流家庭で育ち、お金はいつも不足していた。だから私の「神」は *達成* になった。始める理由は常にあった。働き、働き、働き、すべてには意味があると信じていた。……そして、それは何ももたらさなかった。
 
-## What now?
+自信を打ち砕かれ、その神さえも縮んでしまった。今の私を支えるには、あまりにも小さすぎた。日本で学び続ける未来すら、想像できなくなるほどに。
 
-I was reminded of a blue and yellow card on our kitchen wall back home— one that pushed me through countless 5:00 a.m. mornings in high school. It carried a quote:
+## これから？
+
+家の台所の壁に貼ってあった、青と黄色のカードを思い出した。高校時代、何度も朝5時に私を起こしてくれた言葉だ。
 
 > Expect great things from God, attempt great things for God.
 > — <cite>William Carey[^1]</cite>
 
-[^1]: The above quote is excerpted from ___.
+[^1]: 上記の引用は ___ より抜粋。
 
-I used to think the weight was on “attempt,” but the order begins with expectation—with hope. 
+私はずっと、「attempt（挑戦）」に重きがあると思っていた。でも順番は、まず「expect（期待する）」――つまり希望から始まる。
 
-At the conference, I met people who lived out that hope: some opening schools for underprivileged children in Africa, others praying faithfully for an end to the Korean War. Their lives are driven by trust; that their work won’t be in vain—a hope to continute building toward a *Promised Neverland* of peace.
+カンファレンスでは、その希望を生きている人たちに出会った。アフリカで恵まれない子どもたちのために学校を開く人、朝鮮戦争の終結を信じて祈り続ける人。彼らの人生は、信頼によって動かされていた。自分たちの働きが無駄にならないという希望――平和という *約束の地* に向かって築き続ける希望だ。
 
-That same hope echoes from the God of Genesis. A life that still holds meaning even in failure and disappointment, a life shaped toward the best. A world where tears are no more. Even when I fail, the promise remains. That was the hope I had forgotten.
+その希望は、創世記の神からも響いている。失敗や失望の中にあっても意味を失わない人生。最善へと形づくられる人生。涙のない世界。たとえ私が失敗しても、約束は残る。私はその希望を忘れていた。
 
-> *But how can I know what You’re promising me is true?*
+> *でも、どうすれば、あなたの約束が本物だと分かるのですか？*
 
-> Right here, right now. I will sign this agreement for both of us. If this agreement isn’t kept, I Myself will bear the consequences.
+> 今ここで、私はあなたとの契約に署名する。
+> この契約が破られるなら、その結果は私自身が負う。
 
-The last session ended with a question: “*What are you willing to expect from God?*” When I closed my eyes, what surfaced wasn’t a grand calling but a small, steady voice: “*I want to keep learning.*” I thought I had already lost the right to dream that simply.
+最後のセッションは、こんな問いで締めくくられた。
+「*あなたは、神に何を期待しますか？*」
 
-Yet somewhere in the grief of these past months, I realized something: my hope was never meant to rest on fighting for the “best version” of myself or securing a bright future. I will fail—by mistake, by circumstance.
+目を閉じたとき、浮かんできたのは壮大な召命ではなく、静かで小さな声だった。
+「*学び続けたい*」。
+そんなふうに夢を見る資格は、もう失ったと思っていたのに。
 
-*To seize my season isn’t to control it; I can’t. It is to trust the One who does*. That was the lesson I knew in my head but had to relearn in my heart. And that’s how an eventful week in Korea ends: I was meant to be there to have my hope rekindled—not in myself, but in the love that stays beyond situation.
+けれど、この数か月の悲しみの中で、私は気づいた。私の希望は、「最高の自分」を目指して戦うことや、明るい未来を確保することに置かれるべきではなかった。私は失敗する――不注意によっても、状況によっても。
 
-<!-- This section is temporary; replace with photos later ![Image 1](1.jpg) ![Image 2](2.jpg) -->
+*自分の季節をつかむとは、それを支配することではない。私にはできない。支配しておられる方を信頼することだ*。
+頭では分かっていたその教訓を、私は心でもう一度学び直した。
+
+こうして、韓国での濃密な一週間は終わった。私は、自分自身ではなく、状況を超えて変わらずにある愛に希望を取り戻すために、そこに導かれていたのだ。
+
+<!-- このセクションは一時的：後で写真に差し替え -->
