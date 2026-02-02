@@ -1,13 +1,15 @@
 ---
 title: "Seize Your Season"
 description: 
-date: 2026-02-02T05:44:38Z
+date: 2025-11-02T05:44:38Z
 image: 
 math: 
 license: 
 hidden: false
 comments: false
 draft: false
+categories:
+    - christian life
 ---
 
 Have you ever been in a season when nothing seems to go according to plan, when every effort suddenly feels uncertain? When the dream you’ve worked so hard for is right in front of you, yet somehow still out of reach?
