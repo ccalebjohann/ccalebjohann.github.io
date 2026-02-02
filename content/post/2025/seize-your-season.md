@@ -46,6 +46,8 @@ Six years ago, in 2019, on a 6-hour layover, I stood in the long, wide halls of 
 
 This time, walking through the streets, everything felt strangely familiar—the sights, the sounds, even the rhythm of the people. I’ve seen them somewhere before: the tall apartment buildings, the food bursting with color, the streets draped in Hangul, the grandmas stretching and walking early in the morning to their hearts’ content. I really had seen them, not in a past life, but in K-dramas.
 
+<!-- This section is temporary; replace with photos later ![Image 1](1.jpg) ![Image 2](2.jpg) -->
+
 Yet while familiar, everything still felt foreign. It wasn’t the place, it was the experience itself. It was the complete opposite of chasing my dream, where every step had to be fought for; this one was simply given; I had done nothing to earn it. 
 
 The day before the conference, I felt an urge to break from my usual Bible reading plan and revisit a passage I hadn’t quite understood. Though I was already several chapters ahead, I turned back to Genesis 15. It was about a man who couldn’t believe he was being promised something so great: I saw myself in a similar position to that man.
@@ -62,6 +64,8 @@ Because I remembered the “*why???*” I used to ask.
 > Didn’t I ask You to not let me pass at all if I wasn’t meant to be there?
 
 The emotions I bottled all those months kept spilling out. How dare I.. The speech came to an end and everyone had time for prayer and singing. I couldn’t stand up, my knees were planted to the ground. To make things worse, along with my tears came a drizzle, watering the ground. In a sea of 10,000 people, I was drowning in my own sea of tears.
+
+<!-- This section is temporary; replace with photos later ![Image 1](1.jpg) ![Image 2](2.jpg) -->
 
 In the depths of that sea, I craved for hope. I wanted someone to help me out of a pit I dug myself in.
 
@@ -93,3 +97,5 @@ The last session ended with a question: “*What are you willing to expect from 
 Yet somewhere in the grief of these past months, I realized something: my hope was never meant to rest on fighting for the “best version” of myself or securing a bright future. I will fail—by mistake, by circumstance.
 
 *To seize my season isn’t to control it; I can’t. It is to trust the One who does*. That was the lesson I knew in my head but had to relearn in my heart. And that’s how an eventful week in Korea ends: I was meant to be there to have my hope rekindled—not in myself, but in the love that stays beyond situation.
+
+<!-- This section is temporary; replace with photos later ![Image 1](1.jpg) ![Image 2](2.jpg) -->
