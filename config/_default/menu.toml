@@ -21,7 +21,7 @@ name = "Instagram"
 url = "https://instagram.com/ccalebjohann"
 
 [social.params]
-icon = "brand-github"
+icon = "brand-instagram"
 
 [[social]]
 identifier = "twitter"
